@@ -1,0 +1,55 @@
+_repo: Arts-and-Crafts-Essaysby-Members-of-the-Arts-and-Crafts-Exhibition-Society_36250
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arts and Crafts Exhibition Society
+    alias: Arts and Crafts Exhibition Society, London
+    gutenberg_agent_id: '43105'
+    url: http://www.gutenberg.org/2009/agents/43105
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Decorative arts'
+- !lcc 'NK'
+- !lcsh 'Arts and crafts movement'
+tableOfContents: Of the revival of design and handicraft, with notes on the work of
+  the Arts and Crafts Exhibition Society / Walter Crane -- Textiles / William Morris
+  -- Of decorative painting and design / Walter Crane -- Of wall papers / Walter Crane
+  -- Fictiles / G.T. Robinson -- Metal work / W.A.S. Benson -- Stone and wood carving
+  / Somers Clarke -- Furniture / Stephen Webb -- Stained glass / Somers Clarke --
+  Table glass / Somers Clarke -- Printing / William Morris and Emery Walker -- Bookbinding
+  / T.J. Cobden-Sanderson -- Of mural painting / F. Madox Brown -- Of sgraffito work
+  / Heywood Sumner -- Of stucco and gesso / G.T. Robinson -- Of cast iron / W.R. Lethaby
+  -- Of dyeing as an art / William Morris -- Of embroidery / May Morris -- Of lace
+  / Alan S. Cole -- Of book illustration and book decoration / Reginald Blomfield
+  -- Of designs and working drawings / Lewis F. Day -- Furniture and the room / Edward
+  S. Prior -- Of the room and furniture / Halsey Ricardo -- The English tradition
+  / Reginald Blomfield -- Carpenters' furniture / W.R. Lethaby -- Of decorated furniture
+  / J.H. Pollen -- Of carving / Stephen Webb -- Intarsia and inlaid wood-work / T.G.
+  Jackson -- Woods and other materials / Stephen Webb -- Of modern embroidery / Mary
+  E. Turner -- Of materials / May Morris -- Colour / May Morris -- Stitches and mechanism
+  / Alan S. Cole -- Design / John D. Sedding -- On designing for the art of embroidery
+  / Selwyn Image.
+title: 'Arts and Crafts Essays
+
+  by Members of the Arts and Crafts Exhibition Society'
+url: http://www.gutenberg.org/ebooks/36250
