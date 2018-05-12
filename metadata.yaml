@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43105'
     url: http://www.gutenberg.org/2009/agents/43105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36250#Arts-and-Crafts-Essaysby-Members-of-the-Arts-and-Crafts-Exhibition-Society
 gutenberg_issued: '2011-05-29'
 gutenberg_type: Text
 identifiers:
